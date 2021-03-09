@@ -1,0 +1,7 @@
+redbus_id,fare,TOC,deduction_percentage,cancellation_charges
+101,700," 5 hour(s) before travel ,  1 hour(s) before travel ,  Last 1 hour(s) 100% cancellation charge , "," 10% ,  50% ,  100% , "," Rs. 55 ,  Rs. 275 ,  Rs. 550 , "
+102,650," 1 day(s) before travel ,  12 hour(s) before travel ,  6 hour(s) before travel ,  3 hour(s) before travel ,  Last 3 hour(s) 100% cancellation charge , "," 10% ,  10% ,  25% ,  50% ,  100% , "," Rs. 65 ,  Rs. 65 ,  Rs. 162 ,  Rs. 325 ,  Rs. 650 , "
+104,850," 12 hour(s) before travel ,  8 hour(s) before travel ,  4 hour(s) before travel ,  Last 4 hour(s) 100% cancellation charge , "," 10% ,  25% ,  50% ,  100% , "," Rs. 65 ,  Rs. 162 ,  Rs. 325 ,  Rs. 650 , "
+105,650," 1 day(s) 18 hour(s) before travel ,  1 day(s) before travel ,  4 hour(s) before travel ,  Last 4 hour(s) 100% cancellation charge , "," 10% ,  25% ,  50% ,  100% , "," Rs. 65 / 70 ,  Rs. 162 / 175 ,  Rs. 325 / 350 ,  Rs. 650 / 700 , "
+201,900," 1 day(s) before travel ,  12 hour(s) before travel ,  Last 12 hour(s) 100% cancellation charge , "," 10% ,  50% ,  100% , "," Rs. 74 ,  Rs. 370 ,  Rs. 740 , "
+202,850," 1 day(s) before travel ,  3 hour(s) before travel ,  Last 3 hour(s) 100% cancellation charge , "," 15% ,  25% ,  100% , "," Rs. 130 ,  Rs. 218 ,  Rs. 870 , "
